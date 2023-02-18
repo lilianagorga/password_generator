@@ -1,4 +1,4 @@
-# password-generator
+# PASSWORD GENERATOR
 
 ## Tech Stack = 
 - HTML
